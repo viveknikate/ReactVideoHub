@@ -1,3 +1,13 @@
+# Video Hub app made with react
+## Live website link:-
+https://second-video-project-viveknikate2000.vercel.app/
+
+**Website looks like** :-
+
+![image](https://user-images.githubusercontent.com/66075893/224539948-ac001832-2b60-4ba1-9174-a33fd4735ceb.png)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
